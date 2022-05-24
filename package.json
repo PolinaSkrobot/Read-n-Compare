@@ -1,0 +1,20 @@
+{
+  "name": "interview-polina",
+  "version": "1.0.0",
+  "description": "## Introduction",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://PolinaSkrobot@bitbucket.org/InsideDesk/interview-polina.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/InsideDesk/interview-polina#readme",
+  "dependencies": {
+    "commander": "^8.3.0",
+    "puppeteer": "^11.0.0"
+  }
+}
