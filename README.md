@@ -1,4 +1,4 @@
-# Read and compare two websites project
+# CLI tool to compare two dental websites
 
 ## Project
 To start using this tool, please, use '-l' command: `node commands.js  -l`. It will load data from websites and save them locally for the futher faster search. Data will be saved in JSON files. Any time you want to update the files, just use this command again.
